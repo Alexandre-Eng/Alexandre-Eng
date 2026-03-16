@@ -5,8 +5,7 @@ Estudante de **Engenharia de Software** (3º semestre) na Unijorge, focado em de
 ### 🚀 Sobre mim
 - 🎓 Atualmente mergulhado em Engenharia de Software e arquitetura de sistemas.
 - 💻 Desenvolvo interfaces responsivas com HTML, CSS e JavaScript.
-- 📡 Certificado pela **Cisco** em Redes (CCNA) e Internet das Coisas (IoT).
-- ✍️ Também atuo como Beta Reader para o mercado internacional.
+
 
 ### 🛠️ Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
