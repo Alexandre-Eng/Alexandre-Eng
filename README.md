@@ -15,7 +15,7 @@ Estudante de **Engenharia de Software** (3º semestre) na Unijorge, focado em de
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🏅 Certificações
-- **Scrum Fundamentals Certified (SFC™) — ScrumStudy
+- **Scrum Fundamentals Certified** (SFC™) — ScrumStudy
 - **CCNA: Introduction to Networks** (Cisco Networking Academy)
 - **Introduction to IoT** (Cisco Networking Academy)
 
