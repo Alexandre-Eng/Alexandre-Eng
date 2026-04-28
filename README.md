@@ -3,8 +3,8 @@
 Estudante de **Engenharia de Software** (3º semestre) na Unijorge, focado em desenvolvimento Full Stack e infraestrutura de redes. 
 
 ### 🚀 Sobre mim
-- 🎓 Atualmente mergulhado em Engenharia de Software e arquitetura de sistemas.
-- 💻 Desenvolvo interfaces responsivas com HTML, CSS e JavaScript.
+- 🎓 Atualmente mergulhado no mundo da Engenharia de Software.
+- 💻 Desenvolvo interfaces dinâmicas e funcionais com React/Html, CSS e JavaScript.
 
 
 ### 🛠️ Tecnologias e Ferramentas
