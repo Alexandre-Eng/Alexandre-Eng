@@ -1,6 +1,6 @@
 # Olá, eu sou o Alexandre Lima! 
 
-Estudante de **Engenharia de Software** (3º semestre) na Unijorge, focado em desenvolvimento Full Stack e infraestrutura de redes. 
+Estudante de **Engenharia de Software** (3º semestre) na Unijorge, focado em desenvolvimento Full Stack.
 
 ### 🚀 Sobre mim
 - 🎓 Atualmente mergulhado no mundo da Engenharia de Software.
