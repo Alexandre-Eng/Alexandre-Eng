@@ -13,6 +13,7 @@ Estudante de **Engenharia de Software** (3º semestre) na Unijorge, focado em de
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 
 ### 🏅 Certificações
 - **Scrum Fundamentals Certified** (SFC™) — ScrumStudy
